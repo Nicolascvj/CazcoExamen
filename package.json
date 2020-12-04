@@ -9,7 +9,8 @@
   "author": "Nicolas Cazco",
   "license": "ISC",
   "dependencies": {
-    "csv-parser": "^3.0.0",
+    "colors": "^1.4.0",
+    "csv-parser": "^2.3.5",
     "yargs": "^16.1.1"
   }
 }

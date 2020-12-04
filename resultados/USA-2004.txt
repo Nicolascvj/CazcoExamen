@@ -1,0 +1,4 @@
+Datos : Personas que usan Internet (Personas que usan Internet (% de la población)) 
+País  : Estados Unidos  
+Año   : 2004  
+Valor : 64.75825648

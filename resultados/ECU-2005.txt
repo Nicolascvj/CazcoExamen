@@ -1,0 +1,4 @@
+(Personas que usan Internet (% de la población)) 
+País  : Ecuador  
+Año   : 2005  
+Valor : 5.994255161
