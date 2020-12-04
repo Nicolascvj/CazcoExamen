@@ -1,0 +1,15 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "description": "Nicolas Cazco examen primer parcial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Cazco",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "yargs": "^16.1.1"
+  }
+}
