@@ -35,7 +35,7 @@ let resultados = async(file, country, year) => {
 
 const imprimirDatos = async(pais, anio, datos) => {
     
-    //console.log(datos);
+    console.log(datos);
     for (var i = 4; i < datos.length; i++) {
         if (datos[i][1] === pais) {
             break;
